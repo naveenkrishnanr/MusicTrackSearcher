@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "677320530104",
+    "firebase_url": "https://ideathon-164610.firebaseio.com",
+    "project_id": "ideathon-164610",
+    "storage_bucket": "ideathon-164610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677320530104:android:656b5625c2d856ec",
+        "android_client_info": {
+          "package_name": "com.ideathon.audioiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677320530104-epik6oop5120rioiiarleec7jlt7nmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-Vm82O1mSRu0J_ktuwb5aM9wkt3jL3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677320530104:android:ce4c46ec53a04557",
+        "android_client_info": {
+          "package_name": "iot.ideathon.com.musictracksearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677320530104-1v6d8v18aonifdpp5ai9pn50a870f2hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iot.ideathon.com.musictracksearcher",
+            "certificate_hash": "48064c97c377877cd35396637d12b25d497b42eb"
+          }
+        },
+        {
+          "client_id": "677320530104-epik6oop5120rioiiarleec7jlt7nmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-Vm82O1mSRu0J_ktuwb5aM9wkt3jL3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677320530104-epik6oop5120rioiiarleec7jlt7nmbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
